@@ -3,6 +3,6 @@
 Public Contests
 | Date             | Contest                                                                       | Platform                                                                                 | Findings | Payout |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|:-------:|
-|June 2025 | Superfluid | Sherlock | 1 High 1 Medium | TBD|
+|June 2025 | Superfluid | Sherlock | 2 High | TBD (~$900)|
 |May 2025  | Primev | Cantina | 1 High  | $0.18|
 |May 2025  | Upside | Code4rena | 1 Low  | $0.0|
