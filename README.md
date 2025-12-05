@@ -3,6 +3,7 @@
 Public Contests
 | Date             | Contest                                                                       | Platform                                                                                 | Findings | Payout | Placement |
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|:-------:|:-------:|
+|September 2025  | Rezerve Money | Sherlock | 2 High 4 Medium  | TBD | TBD
 |July 2025  | Mellow | Sherlock | 1 High  | $163.25 | 30/451
 |July 2025  | DeBank | Sherlock | N/A  | $695 | 3/443
 |June 2025 | Symbiotic | Sherlock | 1 Medium | $496.17 | 10/646
